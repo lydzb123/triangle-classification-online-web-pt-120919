@@ -4,6 +4,9 @@ class Triangle
   end
 
   def kind
+    begin
+      raise
+      TriangleError
   end
 
 
