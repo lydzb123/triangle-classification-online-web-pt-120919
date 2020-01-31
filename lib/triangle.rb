@@ -5,7 +5,7 @@ class Triangle
 
   def kind
     begin
-      raise
+    raise
       TriangleError
   end
 
