@@ -2,7 +2,6 @@ class Triangle
   attr_accessor :equilateral, :isosceles, :scalene
   def initialize(x, y, z)
   end
-Give your Triangles an instance method, kind that returns, as a symbol, its type. The valid types are:
 
 
 
